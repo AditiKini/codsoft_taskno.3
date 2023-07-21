@@ -1,10 +1,5 @@
 # codsoft_taskno.3
 
-Hello Connections! 🌍
-
-I am excited to share that I have successfully completed Task 2 of my internship at CodSoft! In this task, I worked on the fascinating project of "Iris Flower Classification" using Python. Here's a summary of my achievement:
-
-
 
 📝 Task Overview:
 
@@ -29,9 +24,3 @@ To tackle this challenging task, I followed a well-structured approach:
 I am thrilled to report that my Iris Flower Classification model achieved outstanding accuracy, with 1.0 . The model demonstrated its capability to classify iris flowers accurately based on their attributes.
 
 
-
-GitHub Link: https://lnkd.in/dhGVNfHZ
-
-
-
-#CodSoftInternship #Python #MachineLearning #IrisFlowerClassification #DataScience #ArtificialIntelligence
